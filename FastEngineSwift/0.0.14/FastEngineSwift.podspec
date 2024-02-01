@@ -36,6 +36,6 @@ Pod::Spec.new do |s|
     s.dependency 'Alamofire', '5.6.1'
     s.dependency 'AlamofireImage', '~> 4.1'
     s.dependency 'UIColor_Hex_Swift', '~> 5.1.9'
-    s.dependency 'CoreSwift', '0.0.7'
+    s.dependency 'CoreSwift', '0.0.6'
     
   end
